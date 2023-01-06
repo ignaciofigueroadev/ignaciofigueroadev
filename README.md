@@ -1,14 +1,6 @@
-### Hi there 👋 this is Nacho 😉
+### Hi there 👋 this is Nacho 😉 Frontend Developer
 
 I was born in Córdoba, Argentina. Nowadays I'm living in Buenos Aires.
-
-## What are my hobbies? 👇
-
-- Play rugby 
-- Play soccer with my friends
-- Read and listen to audiobooks
-- Write Frontend Code
-- Gym
 
 ## What I do? 👇
 
@@ -19,7 +11,7 @@ I was born in Córdoba, Argentina. Nowadays I'm living in Buenos Aires.
 
 ## How I study? 
 
-So, I wake up early to dedicate time to study Frontend technologies, as HTML & CSS, JavaScript, React.js...
+### So, I wake up early to dedicate time to study Frontend technologies, as HTML & CSS, JavaScript, React.js...
 I study for 3 or 4 hours per day, and in the afternoon I practice English reading documentation and watching videos of Frontend Dev.
 
 ## What are my main sources of study?
@@ -30,4 +22,12 @@ I study for 3 or 4 hours per day, and in the afternoon I practice English readin
 - Github repositories
 - Official documentation
 - Youtube
+
+## What are my hobbies? 👇
+
+- Play rugby 🏉 
+- Play soccer with my friends ⚽
+- Read and listen to audiobooks 📖
+- Write Frontend Code 👨🏾‍💻
+- Gym 🏋🏾
 
