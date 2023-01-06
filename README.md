@@ -17,3 +17,17 @@ I was born in Córdoba, Argentina. Nowadays I'm living in Buenos Aires.
 - 👯 I’m looking to collaborate on any company that is interested in my services 😀
 - 🤔 I’m looking for help with tips and advices of Frontend development, soft skills, and anything help me 
 
+## How I study? 
+
+So, I wake up early to dedicate time to study Frontend technologies, as HTML & CSS, JavaScript, React.js...
+I study for 3 or 4 hours per day, and in the afternoon I practice English reading documentation and watching videos of Frontend Dev.
+
+## What are my main sources of study?
+
+- [FreeCodeCamp]{https://www.freecodecamp.org/espanol/figueroaignacio_}
+- [OpenBootcamp]{https://campus.open-bootcamp.com/perfil#cuenta}
+- [Frontend Mentor]{https://www.frontendmentor.io/profile/ignaciofigueroadev}
+- Github repositories
+- Official documentation.
+- Youtube
+
