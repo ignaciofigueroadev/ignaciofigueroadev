@@ -23,10 +23,11 @@ So, I wake up early to dedicate time to study Frontend technologies, as HTML & C
 I study for 3 or 4 hours per day, and in the afternoon I practice English reading documentation and watching videos of Frontend Dev.
 
 ## What are my main sources of study?
-- {FreeCodeCamp}[https://www.freecodecamp.org/espanol/figueroaignacio_]
-- {Frontend Mentor}[https://www.frontendmentor.io/profile/ignaciofigueroadev]
-- {Open Bootcamp}[https://campus.open-bootcamp.com/perfil#cuenta]
+
+- [FreeCodeCamp](https://www.freecodecamp.org/espanol/figueroaignacio_)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/ignaciofigueroadev)
+- [Open Bootcamp](https://campus.open-bootcamp.com/perfil#cuenta)
 - Github repositories
-- Official documentation.
+- Official documentation
 - Youtube
 
