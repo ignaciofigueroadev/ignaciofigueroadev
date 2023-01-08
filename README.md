@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, this is Ignacio 🫡</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working on **Frontend projects**
+- 🔭 I’m currently working on **Frontend Mentor projects to improve my skills**
 
 - 🌱 I’m currently learning **Frontend skills, advices, good practices**
 
