@@ -16,7 +16,8 @@
 
 ## <h3 align="left">How I study?</h3> 
 
-So, I wake up early to dedicate time to study Frontend technologies, as HTML & CSS, JavaScript, React.js...
+So, I wake up early to dedicate time to study Frontend technologies, as HTML & CSS, JavaScript, React.js.
+
 I study for 3 or 4 hours per day, and in the afternoon I practice English reading documentation and watching videos of Frontend Dev.
 
 <h3 align="left">What are my main sources of study?</h3>
