@@ -30,4 +30,14 @@ Hello! I'm Ignacio Figueroa, a passionate Frontend Developer with expertise in H
 ---
 [![](https://visitcount.itsvg.in/api?id=ignaciofigueroadev&icon=5&color=0)](https://visitcount.itsvg.in)
 
+If you have any inquiries, project proposals, or would like to connect, feel free to reach out to me via email at figueroaignaciodev@gmail.com. You can also find me on LinkedIn higher up.
+
+You can found me on discord too:
+Ignacio Figueroa#4445
+
+I look forward to contributing my skills and expertise to create exceptional web experiences!
+
+Best regards,
+Ignacio Figueroa
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
